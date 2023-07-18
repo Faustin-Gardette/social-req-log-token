@@ -1,0 +1,3 @@
+SQL
+
+users :id / pseudo /  password  / profilpic(ou img défaut) 
